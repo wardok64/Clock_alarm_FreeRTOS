@@ -1,5 +1,5 @@
 # Clock_alarm_FreeRTOS
-## Reloj con alarma en FreeRTOS
+## Reloj con alarma en FreeRTOS - BluePill (STM32F103C8T6)
 
 **Materiales:**
 
