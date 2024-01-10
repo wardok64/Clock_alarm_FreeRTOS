@@ -1,6 +1,20 @@
 # Clock_alarm_FreeRTOS
 ## Reloj con alarma en FreeRTOS - BluePill (STM32F103C8T6)
 
+## Imagenes:
+![RTOS](https://github.com/wardok64/Clock_alarm_FreeRTOS/assets/104173190/fb94b195-a81a-44b3-b5e0-6d7e5c066797)
+
+![rtos_](https://github.com/wardok64/Clock_alarm_FreeRTOS/assets/104173190/f0e2a68d-8ab9-40bb-b116-1fbe2d064609)
+
+![rtos_alarm](https://github.com/wardok64/Clock_alarm_FreeRTOS/assets/104173190/ccb9a5a0-dd58-4ca7-9d54-db00864cf0ec)
+
+![bmp](https://github.com/wardok64/Clock_alarm_FreeRTOS/assets/104173190/eb8b08ed-1967-48d1-8d0b-9c2579d6ad48)
+
+## Video demo:
+
+https://github.com/wardok64/Clock_alarm_FreeRTOS/assets/104173190/e8ac6196-719b-4b7f-9be2-5ccfbe51150f
+
+
 **Materiales:**
 
 - LCD 16x2 JHD162A.
